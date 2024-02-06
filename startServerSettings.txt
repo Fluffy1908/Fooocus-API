@@ -1,0 +1,14 @@
+Enter to start virt env using venv:
+
+//To change the execution policy to allow script execution, run the following command:
+
+1) Set-ExecutionPolicy RemoteSigned 
+
+//If you're prompted to confirm the change, type 'Y' for yes or 'A' for all and press Enter.
+2)  .\venv\Scripts\Activate
+
+//Congrats, virtual env activated.
+
+//Now run fooocus-api server:
+
+3) python main.py
